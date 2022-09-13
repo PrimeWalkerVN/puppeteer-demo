@@ -1,0 +1,10 @@
+{
+  "name": "puppeteer-demo",
+  "packageManager": "yarn@3.2.3",
+  "scripts": {
+    "start" :"node app.js"
+  },
+  "dependencies": {
+    "puppeteer": "^17.1.3"
+  }
+}
